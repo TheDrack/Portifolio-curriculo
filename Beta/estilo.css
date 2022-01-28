@@ -86,14 +86,19 @@ header{
     right: 0;
 
 }
+
+.menu {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
 nav {
     
     width: 100%;
     padding: 15px 0 16px 0;
     text-align: center;
     font-size: 20px;
-    position: absolute;
-    bottom: 0px;
     
 }
 nav a{
@@ -105,7 +110,7 @@ nav a{
     
     }
 nav a:hover { 
-    color: whitesmoke;background: blue;}
+    color: transparent;background: blue;}
 
 .selecionado { 
     border: solid 1px blue}/*** Link selecionado do menu do cabeçalho***/

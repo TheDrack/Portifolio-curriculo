@@ -67,7 +67,7 @@ a:active {
 /******Formatação do Cabeçalho******/
 
 header{
-    position: relative;
+    position: sticky;
     max-width: 800px;
     min-width: -webkit-max-content;
     min-width: -moz-max-content;
@@ -92,7 +92,7 @@ nav {
     padding: 15px 0 16px 0;
     text-align: center;
     font-size: 20px;
-    position: sticky;
+    position: absolute;
     bottom: 0px;
     
 }

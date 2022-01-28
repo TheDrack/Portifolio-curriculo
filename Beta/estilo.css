@@ -67,7 +67,7 @@ a:active {
 /******Formatação do Cabeçalho******/
 
 header{
-    position: sticky;
+    position: absolute;
     max-width: 800px;
     min-width: -webkit-max-content;
     min-width: -moz-max-content;

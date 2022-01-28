@@ -145,6 +145,7 @@ legend {
     padding: 3px;
     padding-bottom: 0px;
     width: fit-content;
+    margin: 2px;
     color: blue;
 }
 

@@ -113,7 +113,7 @@ nav a{
     margin: 0 10px;
     }
 nav a:hover { 
-    color: transparent;background: blue;}
+    color: whitesmoke;background: blue;}
 
 .selecionado { 
     border: solid 1px blue}/*** Link selecionado do menu do cabeçalho***/

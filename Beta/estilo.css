@@ -92,7 +92,7 @@ header{
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 0 257px;
+    padding: 0 226px;
 
 }
 
@@ -110,7 +110,7 @@ nav a{
     font-size: 18px ;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 2em;
-    
+    margin: 0 10px;
     }
 nav a:hover { 
     color: transparent;background: blue;}

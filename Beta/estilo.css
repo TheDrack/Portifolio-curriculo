@@ -92,8 +92,13 @@ header{
     position: absolute;
     bottom: 0;
     width: 100%;
-    padding: 0 226px;
+    /*padding: 0 226px;*/
 
+}
+
+#navtarget{
+    margin: 0 25%;
+    width: 50%;
 }
 
 nav {
